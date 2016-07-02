@@ -1,4 +1,8 @@
 hello
 world
 
+<<<<<<< HEAD
 hi
+=======
+hehe
+>>>>>>> dev2
